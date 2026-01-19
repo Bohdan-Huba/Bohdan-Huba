@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bohdan 👋
 
-<!--
-**Bohdan-Huba/Bohdan-Huba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+Software Engineer with a strong background in **backend (Java, Rust, PostgreSQL)** and **mobile development (Kotlin/Java, Swift, React Native)**.  
+Building scalable apps and APIs with a focus on clean architecture and production-ready systems.
 
-Here are some ideas to get you started:
+Currently **open to backend opportunities** (on-site in NRW, hybrid, or remote across Germany).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Rust, PostgreSQL, REST APIs, Docker |
+| **Mobile** | Kotlin/Java (Android), Swift (iOS), React Native |
+| **Tools** | Git, CI/CD, Hilt/Koin, Jetpack Compose |
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bohdan-huba-0911a9231)
+- [Email](mailto:bohdan.huba.dev@gmail.com)
