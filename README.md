@@ -35,4 +35,4 @@ My background in **mobile and cross-platform development** (Android, iOS, React 
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/bohdan-huba-0911a9231)
-- 📧 [bohdan.huba.dev@gmail.com](mailto:bohdan.huba.dev@gmail.com)
+- [bohdan.huba.dev@gmail.com](mailto:bohdan.huba.dev@gmail.com)
